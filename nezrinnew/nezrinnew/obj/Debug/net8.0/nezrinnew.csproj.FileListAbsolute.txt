@@ -1,0 +1,13 @@
+C:\Users\99455\source\repos\nezrinnew\nezrinnew\nezrinnew\bin\Debug\net8.0\nezrinnew.deps.json
+C:\Users\99455\source\repos\nezrinnew\nezrinnew\nezrinnew\bin\Debug\net8.0\nezrinnew.dll
+C:\Users\99455\source\repos\nezrinnew\nezrinnew\nezrinnew\bin\Debug\net8.0\nezrinnew.pdb
+C:\Users\99455\source\repos\nezrinnew\nezrinnew\nezrinnew\obj\Debug\net8.0\nezrinnew.csproj.AssemblyReference.cache
+C:\Users\99455\source\repos\nezrinnew\nezrinnew\nezrinnew\obj\Debug\net8.0\nezrinnew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99455\source\repos\nezrinnew\nezrinnew\nezrinnew\obj\Debug\net8.0\nezrinnew.AssemblyInfoInputs.cache
+C:\Users\99455\source\repos\nezrinnew\nezrinnew\nezrinnew\obj\Debug\net8.0\nezrinnew.AssemblyInfo.cs
+C:\Users\99455\source\repos\nezrinnew\nezrinnew\nezrinnew\obj\Debug\net8.0\nezrinnew.csproj.CoreCompileInputs.cache
+C:\Users\99455\source\repos\nezrinnew\nezrinnew\nezrinnew\obj\Debug\net8.0\XamlC.stamp
+C:\Users\99455\source\repos\nezrinnew\nezrinnew\nezrinnew\obj\Debug\net8.0\nezrinnew.dll
+C:\Users\99455\source\repos\nezrinnew\nezrinnew\nezrinnew\obj\Debug\net8.0\refint\nezrinnew.dll
+C:\Users\99455\source\repos\nezrinnew\nezrinnew\nezrinnew\obj\Debug\net8.0\nezrinnew.pdb
+C:\Users\99455\source\repos\nezrinnew\nezrinnew\nezrinnew\obj\Debug\net8.0\ref\nezrinnew.dll

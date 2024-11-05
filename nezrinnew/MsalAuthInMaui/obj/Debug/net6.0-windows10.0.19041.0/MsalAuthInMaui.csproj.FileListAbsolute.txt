@@ -1,0 +1,14 @@
+C:\Users\99455\source\repos\nezrinnew\nezrinnew\MsalAuthInMaui\bin\Debug\net6.0-windows10.0.19041.0\appsettings.json
+C:\Users\99455\source\repos\nezrinnew\nezrinnew\MsalAuthInMaui\bin\Debug\net6.0-windows10.0.19041.0\MsalAuthInMaui.deps.json
+C:\Users\99455\source\repos\nezrinnew\nezrinnew\MsalAuthInMaui\bin\Debug\net6.0-windows10.0.19041.0\MsalAuthInMaui.dll
+C:\Users\99455\source\repos\nezrinnew\nezrinnew\MsalAuthInMaui\bin\Debug\net6.0-windows10.0.19041.0\MsalAuthInMaui.pdb
+C:\Users\99455\source\repos\nezrinnew\nezrinnew\MsalAuthInMaui\obj\Debug\net6.0-windows10.0.19041.0\MsalAuthInMaui.csproj.AssemblyReference.cache
+C:\Users\99455\source\repos\nezrinnew\nezrinnew\MsalAuthInMaui\obj\Debug\net6.0-windows10.0.19041.0\MsalAuthInMaui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99455\source\repos\nezrinnew\nezrinnew\MsalAuthInMaui\obj\Debug\net6.0-windows10.0.19041.0\MsalAuthInMaui.AssemblyInfoInputs.cache
+C:\Users\99455\source\repos\nezrinnew\nezrinnew\MsalAuthInMaui\obj\Debug\net6.0-windows10.0.19041.0\MsalAuthInMaui.AssemblyInfo.cs
+C:\Users\99455\source\repos\nezrinnew\nezrinnew\MsalAuthInMaui\obj\Debug\net6.0-windows10.0.19041.0\MsalAuthInMaui.csproj.CoreCompileInputs.cache
+C:\Users\99455\source\repos\nezrinnew\nezrinnew\MsalAuthInMaui\obj\Debug\net6.0-windows10.0.19041.0\XamlC.stamp
+C:\Users\99455\source\repos\nezrinnew\nezrinnew\MsalAuthInMaui\obj\Debug\net6.0-windows10.0.19041.0\MsalAuthInMaui.dll
+C:\Users\99455\source\repos\nezrinnew\nezrinnew\MsalAuthInMaui\obj\Debug\net6.0-windows10.0.19041.0\refint\MsalAuthInMaui.dll
+C:\Users\99455\source\repos\nezrinnew\nezrinnew\MsalAuthInMaui\obj\Debug\net6.0-windows10.0.19041.0\MsalAuthInMaui.pdb
+C:\Users\99455\source\repos\nezrinnew\nezrinnew\MsalAuthInMaui\obj\Debug\net6.0-windows10.0.19041.0\ref\MsalAuthInMaui.dll

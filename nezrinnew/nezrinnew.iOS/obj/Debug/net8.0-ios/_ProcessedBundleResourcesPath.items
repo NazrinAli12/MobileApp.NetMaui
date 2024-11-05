@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <BundleResource Include="Resources\AboutiOSResources.txt" />
+    <BundleResource Include="Resources\dotnet_bot_devices.png" />
+    <BundleResource Include="Resources\dotnet_bot_devices@2x.png" />
+    <BundleResource Include="Resources\dotnet_bot_devices@3x.png" />
+    <BundleResource Include="Resources\PrivacyInfo.xcprivacy" />
+    <BundleResource Include="C:\Users\99455\source\repos\nezrinnew\nezrinnew\nezrinnew.iOS\obj\Debug\net8.0-ios\resizetizer\r\dotnet_bot.png" />
+    <BundleResource Include="C:\Users\99455\source\repos\nezrinnew\nezrinnew\nezrinnew.iOS\obj\Debug\net8.0-ios\resizetizer\r\dotnet_bot@2x.png" />
+    <BundleResource Include="C:\Users\99455\source\repos\nezrinnew\nezrinnew\nezrinnew.iOS\obj\Debug\net8.0-ios\resizetizer\r\dotnet_bot@3x.png" />
+  </ItemGroup>
+</Project>

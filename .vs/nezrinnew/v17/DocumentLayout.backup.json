@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\99455\\source\\repos\\nezrinnew\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AED10BA-ED5B-494F-B594-23B5CFADCF79}|nezrinnew\\SecureWebApi\\SecureWebApi.csproj|c:\\users\\99455\\source\\repos\\nezrinnew\\nezrinnew\\securewebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3AED10BA-ED5B-494F-B594-23B5CFADCF79}|nezrinnew\\SecureWebApi\\SecureWebApi.csproj|solutionrelative:nezrinnew\\securewebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5325A73F-9E39-45FD-91D7-8AC7853742E2}|nezrinnew\\MsalAuthInMaui\\MsalAuthInMaui.csproj|c:\\users\\99455\\source\\repos\\nezrinnew\\nezrinnew\\msalauthinmaui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5325A73F-9E39-45FD-91D7-8AC7853742E2}|nezrinnew\\MsalAuthInMaui\\MsalAuthInMaui.csproj|solutionrelative:nezrinnew\\msalauthinmaui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5325A73F-9E39-45FD-91D7-8AC7853742E2}|nezrinnew\\MsalAuthInMaui\\MsalAuthInMaui.csproj|c:\\users\\99455\\source\\repos\\nezrinnew\\nezrinnew\\msalauthinmaui\\msalclient\\ipcawrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5325A73F-9E39-45FD-91D7-8AC7853742E2}|nezrinnew\\MsalAuthInMaui\\MsalAuthInMaui.csproj|solutionrelative:nezrinnew\\msalauthinmaui\\msalclient\\ipcawrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5325A73F-9E39-45FD-91D7-8AC7853742E2}|nezrinnew\\MsalAuthInMaui\\MsalAuthInMaui.csproj|c:\\users\\99455\\source\\repos\\nezrinnew\\nezrinnew\\msalauthinmaui\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5325A73F-9E39-45FD-91D7-8AC7853742E2}|nezrinnew\\MsalAuthInMaui\\MsalAuthInMaui.csproj|solutionrelative:nezrinnew\\msalauthinmaui\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5325A73F-9E39-45FD-91D7-8AC7853742E2}|nezrinnew\\MsalAuthInMaui\\MsalAuthInMaui.csproj|c:\\users\\99455\\source\\repos\\nezrinnew\\nezrinnew\\msalauthinmaui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5325A73F-9E39-45FD-91D7-8AC7853742E2}|nezrinnew\\MsalAuthInMaui\\MsalAuthInMaui.csproj|solutionrelative:nezrinnew\\msalauthinmaui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5325A73F-9E39-45FD-91D7-8AC7853742E2}|nezrinnew\\MsalAuthInMaui\\MsalAuthInMaui.csproj|c:\\users\\99455\\source\\repos\\nezrinnew\\nezrinnew\\msalauthinmaui\\msalauthinmaui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5325A73F-9E39-45FD-91D7-8AC7853742E2}|nezrinnew\\MsalAuthInMaui\\MsalAuthInMaui.csproj|solutionrelative:nezrinnew\\msalauthinmaui\\msalauthinmaui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5325A73F-9E39-45FD-91D7-8AC7853742E2}|nezrinnew\\MsalAuthInMaui\\MsalAuthInMaui.csproj|c:\\users\\99455\\source\\repos\\nezrinnew\\nezrinnew\\msalauthinmaui\\platforms\\android\\msalactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5325A73F-9E39-45FD-91D7-8AC7853742E2}|nezrinnew\\MsalAuthInMaui\\MsalAuthInMaui.csproj|solutionrelative:nezrinnew\\msalauthinmaui\\platforms\\android\\msalactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5325A73F-9E39-45FD-91D7-8AC7853742E2}|nezrinnew\\MsalAuthInMaui\\MsalAuthInMaui.csproj|c:\\users\\99455\\source\\repos\\nezrinnew\\nezrinnew\\msalauthinmaui\\msalclient\\pcasocialwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5325A73F-9E39-45FD-91D7-8AC7853742E2}|nezrinnew\\MsalAuthInMaui\\MsalAuthInMaui.csproj|solutionrelative:nezrinnew\\msalauthinmaui\\msalclient\\pcasocialwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5325A73F-9E39-45FD-91D7-8AC7853742E2}|nezrinnew\\MsalAuthInMaui\\MsalAuthInMaui.csproj|c:\\users\\99455\\source\\repos\\nezrinnew\\nezrinnew\\msalauthinmaui\\msalclient\\pcawrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5325A73F-9E39-45FD-91D7-8AC7853742E2}|nezrinnew\\MsalAuthInMaui\\MsalAuthInMaui.csproj|solutionrelative:nezrinnew\\msalauthinmaui\\msalclient\\pcawrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5325A73F-9E39-45FD-91D7-8AC7853742E2}|nezrinnew\\MsalAuthInMaui\\MsalAuthInMaui.csproj|c:\\users\\99455\\source\\repos\\nezrinnew\\nezrinnew\\msalauthinmaui\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5325A73F-9E39-45FD-91D7-8AC7853742E2}|nezrinnew\\MsalAuthInMaui\\MsalAuthInMaui.csproj|solutionrelative:nezrinnew\\msalauthinmaui\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 206,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\nezrinnew\\nezrinnew\\SecureWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "nezrinnew\\SecureWebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\nezrinnew\\nezrinnew\\SecureWebApi\\appsettings.json",
+              "RelativeToolTip": "nezrinnew\\SecureWebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-05T13:06:19.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MsalAuthInMaui",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\nezrinnew\\nezrinnew\\MsalAuthInMaui\\MsalAuthInMaui.csproj",
+              "RelativeDocumentMoniker": "nezrinnew\\MsalAuthInMaui\\MsalAuthInMaui.csproj",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\nezrinnew\\nezrinnew\\MsalAuthInMaui\\MsalAuthInMaui.csproj",
+              "RelativeToolTip": "nezrinnew\\MsalAuthInMaui\\MsalAuthInMaui.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-05T12:48:00.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\nezrinnew\\nezrinnew\\MsalAuthInMaui\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "nezrinnew\\MsalAuthInMaui\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\nezrinnew\\nezrinnew\\MsalAuthInMaui\\MainPage.xaml.cs",
+              "RelativeToolTip": "nezrinnew\\MsalAuthInMaui\\MainPage.xaml.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAqwHgAAACKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T10:54:47.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\nezrinnew\\nezrinnew\\MsalAuthInMaui\\MainPage.xaml",
+              "RelativeDocumentMoniker": "nezrinnew\\MsalAuthInMaui\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\nezrinnew\\nezrinnew\\MsalAuthInMaui\\MainPage.xaml",
+              "RelativeToolTip": "nezrinnew\\MsalAuthInMaui\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-05T10:53:40.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MsalActivity.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\nezrinnew\\nezrinnew\\MsalAuthInMaui\\Platforms\\Android\\MsalActivity.cs",
+              "RelativeDocumentMoniker": "nezrinnew\\MsalAuthInMaui\\Platforms\\Android\\MsalActivity.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\nezrinnew\\nezrinnew\\MsalAuthInMaui\\Platforms\\Android\\MsalActivity.cs",
+              "RelativeToolTip": "nezrinnew\\MsalAuthInMaui\\Platforms\\Android\\MsalActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T10:49:00.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PCAWrapper.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\nezrinnew\\nezrinnew\\MsalAuthInMaui\\MsalClient\\PCAWrapper.cs",
+              "RelativeDocumentMoniker": "nezrinnew\\MsalAuthInMaui\\MsalClient\\PCAWrapper.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\nezrinnew\\nezrinnew\\MsalAuthInMaui\\MsalClient\\PCAWrapper.cs",
+              "RelativeToolTip": "nezrinnew\\MsalAuthInMaui\\MsalClient\\PCAWrapper.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T10:10:25.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPCAWrapper.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\nezrinnew\\nezrinnew\\MsalAuthInMaui\\MsalClient\\IPCAWrapper.cs",
+              "RelativeDocumentMoniker": "nezrinnew\\MsalAuthInMaui\\MsalClient\\IPCAWrapper.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\nezrinnew\\nezrinnew\\MsalAuthInMaui\\MsalClient\\IPCAWrapper.cs",
+              "RelativeToolTip": "nezrinnew\\MsalAuthInMaui\\MsalClient\\IPCAWrapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T10:10:15.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PCASocialWrapper.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\nezrinnew\\nezrinnew\\MsalAuthInMaui\\MsalClient\\PCASocialWrapper.cs",
+              "RelativeDocumentMoniker": "nezrinnew\\MsalAuthInMaui\\MsalClient\\PCASocialWrapper.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\nezrinnew\\nezrinnew\\MsalAuthInMaui\\MsalClient\\PCASocialWrapper.cs",
+              "RelativeToolTip": "nezrinnew\\MsalAuthInMaui\\MsalClient\\PCASocialWrapper.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAMwEsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T10:02:24.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\nezrinnew\\nezrinnew\\MsalAuthInMaui\\Settings.cs",
+              "RelativeDocumentMoniker": "nezrinnew\\MsalAuthInMaui\\Settings.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\nezrinnew\\nezrinnew\\MsalAuthInMaui\\Settings.cs",
+              "RelativeToolTip": "nezrinnew\\MsalAuthInMaui\\Settings.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvwsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T10:00:05.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\nezrinnew\\nezrinnew\\MsalAuthInMaui\\appsettings.json",
+              "RelativeDocumentMoniker": "nezrinnew\\MsalAuthInMaui\\appsettings.json",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\nezrinnew\\nezrinnew\\MsalAuthInMaui\\appsettings.json",
+              "RelativeToolTip": "nezrinnew\\MsalAuthInMaui\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-05T09:28:54.789Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = nezrinnew
+build_property.ProjectDir = C:\Users\99455\source\repos\nezrinnew\nezrinnew\nezrinnew\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[C:/Users/99455/source/repos/nezrinnew/nezrinnew/nezrinnew/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = nezrinnew.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/99455/source/repos/nezrinnew/nezrinnew/nezrinnew/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = nezrinnew.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/99455/source/repos/nezrinnew/nezrinnew/nezrinnew/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = nezrinnew.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/99455/source/repos/nezrinnew/nezrinnew/nezrinnew/Pages/AbsoluteLayoutDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = nezrinnew.Pages.AbsoluteLayoutDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\AbsoluteLayoutDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\AbsoluteLayoutDemo.xaml
+
+[C:/Users/99455/source/repos/nezrinnew/nezrinnew/nezrinnew/Pages/FlexLayoutDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = nezrinnew.Pages.FlexLayoutDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\FlexLayoutDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\FlexLayoutDemo.xaml
+
+[C:/Users/99455/source/repos/nezrinnew/nezrinnew/nezrinnew/Pages/GridDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = nezrinnew.Pages.GridDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\GridDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\GridDemo.xaml
+
+[C:/Users/99455/source/repos/nezrinnew/nezrinnew/nezrinnew/Pages/HorizontalStackLayoutDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = nezrinnew.Pages.HorizontalStackLayoutDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\HorizontalStackLayoutDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\HorizontalStackLayoutDemo.xaml
+
+[C:/Users/99455/source/repos/nezrinnew/nezrinnew/nezrinnew/Pages/StackLayoutDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = nezrinnew.Pages.StackLayoutDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\StackLayoutDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\StackLayoutDemo.xaml
+
+[C:/Users/99455/source/repos/nezrinnew/nezrinnew/nezrinnew/Pages/VerticalStackLayoutDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = nezrinnew.Pages.VerticalStackLayoutDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\VerticalStackLayoutDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\VerticalStackLayoutDemo.xaml
+
+[C:/Users/99455/source/repos/nezrinnew/nezrinnew/nezrinnew/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = nezrinnew.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/99455/source/repos/nezrinnew/nezrinnew/nezrinnew/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = nezrinnew.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
